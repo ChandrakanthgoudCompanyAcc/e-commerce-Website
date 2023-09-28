@@ -19,3 +19,6 @@ Github Administration Part-1
  - Branch creation and deletion
  - file creation and commit
  - tag creation & deletion
+
+
+ the above is the GIT basics we need to understand
