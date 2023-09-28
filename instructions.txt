@@ -22,3 +22,6 @@ Github Administration Part-1
 
 
  the above is the GIT basics we need to understand
+
+ PLease try to understand the concepts
+
