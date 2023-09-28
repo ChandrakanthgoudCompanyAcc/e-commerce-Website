@@ -1,0 +1,21 @@
+GIT Overview
+Version control system
+Type of Version control system
+Architecture of Git
+Installation of Git
+Basic commands
+========================================================================================================================
+Branches and Branching strategy
+Merge and Rebase
+Cherrypick
+====================================================================================================================
+Tags
+Stash Techniques
+===================================================================================================================
+Github Account Creation
+========================================================================================================================
+Github Administration Part-1
+ - Repository creation
+ - Branch creation and deletion
+ - file creation and commit
+ - tag creation & deletion
